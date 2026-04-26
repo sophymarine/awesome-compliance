@@ -115,6 +115,7 @@ This list is intended for **compliance officers**, **risk managers**, **auditors
 ### Risk & compliance management
 
 - [GRR Rapid Response](https://github.com/google/grr) - Open-source incident response framework by Google. ![Open Source](https://img.shields.io/badge/-Open%20Source-1a2029?logo=opensourceinitiative&logoColor=white&labelColor=00dc82)
+- [OpenRegistry](https://openregistry.sophymarine.com) - Live MCP-server access to 27 national company registries (UK Companies House, German Handelsregister, French RNE, Italian InfoCamere via BRIS, Spanish BORME, Korean OpenDART, plus 21 more) for KYC / UBO / due-diligence workflows. Surfaces post-CJEU C-37/20 access restrictions explicitly.
 
 ### Security assessment
 
